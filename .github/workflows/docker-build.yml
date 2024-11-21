@@ -24,10 +24,10 @@ jobs:
       # Build the Docker image
       - name: Build Docker image
         run: |
-          docker build -t djara14/pokedex-flask .
+          docker build -t djara1416/pokedex-flask .
 
       # Push the Docker image to DockerHub
       - name: Push Docker image to DockerHub
         run: |
-          docker push djara14/pokedex-flask
+          docker push djara1416/pokedex-flask
 
