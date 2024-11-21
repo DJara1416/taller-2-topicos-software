@@ -6,7 +6,7 @@ pokeneas = [
         "nombre": "Flogón",
         "altura": "1.2 m",
         "habilidad": "Fuego",
-        "imagen": "https://storage.googleapis.com/pokeneas-imagenes/flogon.png",
+        "imagen": "https://storage.cloud.google.com/pokeneas-imagenes_2/fuego.png",
         "frase": "Siempre adelante, nunca retroceder."
     },
     {
@@ -14,7 +14,7 @@ pokeneas = [
         "nombre": "Aquareon",
         "altura": "0.8 m",
         "habilidad": "Agua",
-        "imagen": "https://storage.googleapis.com/pokeneas-imagenes/aquareon.png",
+        "imagen": "https://storage.cloud.google.com/pokeneas-imagenes_2/aguaa.jfif",
         "frase": "El agua calma hasta el fuego más intenso."
     },
     {
@@ -22,7 +22,7 @@ pokeneas = [
         "nombre": "Ventisca",
         "altura": "1.5 m",
         "habilidad": "Viento",
-        "imagen": "https://storage.googleapis.com/pokeneas-imagenes/ventisca.png",
+        "imagen": "https://storage.cloud.google.com/pokeneas-imagenes_2/viento.jfif",
         "frase": "El viento nunca se detiene, aprende de él."
     },
     {
@@ -30,7 +30,7 @@ pokeneas = [
         "nombre": "Rocatus",
         "altura": "0.9 m",
         "habilidad": "Roca",
-        "imagen": "https://storage.googleapis.com/pokeneas-imagenes/rocatus.png",
+        "imagen": "https://storage.cloud.google.com/pokeneas-imagenes_2/roca.jfif",
         "frase": "La fortaleza está en la base."
     },
     {
@@ -38,7 +38,7 @@ pokeneas = [
         "nombre": "Electrion",
         "altura": "1.1 m",
         "habilidad": "Eléctrico",
-        "imagen": "https://storage.googleapis.com/pokeneas-imagenes/electrion.png",
+        "imagen": "https://storage.cloud.google.com/pokeneas-imagenes_2/electrico.jfif",
         "frase": "La chispa más pequeña puede encender un gran fuego."
     },
     {
@@ -46,7 +46,7 @@ pokeneas = [
         "nombre": "Glacialis",
         "altura": "0.7 m",
         "habilidad": "Hielo",
-        "imagen": "https://storage.googleapis.com/pokeneas-imagenes/glacialis.png",
+        "imagen": "https://storage.cloud.google.com/pokeneas-imagenes_2/hielo.jfif",
         "frase": "La calma del hielo derrota la prisa."
     },
     {
@@ -54,7 +54,7 @@ pokeneas = [
         "nombre": "Umbrión",
         "altura": "1.4 m",
         "habilidad": "Oscuridad",
-        "imagen": "https://storage.googleapis.com/pokeneas-imagenes/umbrion.png",
+        "imagen": "https://storage.cloud.google.com/pokeneas-imagenes_2/oscuridad.jfif",
         "frase": "En la oscuridad, siempre hay una chispa de luz."
     }
 ]
