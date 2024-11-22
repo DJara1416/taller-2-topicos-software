@@ -25,7 +25,7 @@ jobs:
       # Paso 3: Construir la imagen Docker
       - name: Build Docker image
         run: |
-          docker build -t djara1416/pokedex-flask
+          docker build -t djara1416/pokedex-flask .
 
       # Paso 4: Subir la imagen Docker a DockerHub
       - name: Push Docker image to DockerHub
